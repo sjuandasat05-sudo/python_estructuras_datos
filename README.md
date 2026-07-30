@@ -43,6 +43,13 @@ Reto:
 ![alt text](image-3.png)
 
 
+Modulo_5:
+
+Reto:
+
+![alt text](image-4.png)
+
+
 REFLEXION:
 
 Esta actividad me deja como evidencia que no todo se pueden tratar de la misma forma en python.
